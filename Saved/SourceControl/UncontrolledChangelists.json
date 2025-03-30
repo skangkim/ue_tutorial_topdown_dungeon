@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Maps/MAP_Dungeon.umap",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/GM_Dungeon.uasset"
+			]
+		}
+	]
+}
