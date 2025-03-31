@@ -298,7 +298,9 @@
 				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Characters/Skeleton/BP_Skeleton.uasset",
 				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Characters/Boar/BP_Boar.uasset",
 				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Characters/Boar/ABP_Boar.uasset",
-				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/AI/AIC_Enemy.uasset"
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/AI/AIC_Enemy.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Components/BPC_Health.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Inputs/Actions/IA_Sword.uasset"
 			]
 		}
 	]
