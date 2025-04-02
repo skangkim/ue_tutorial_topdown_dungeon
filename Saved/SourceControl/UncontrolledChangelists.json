@@ -317,7 +317,15 @@
 				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Pickup/BP_Pickup_Arrow.uasset",
 				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Systems/BP_SpawnManager.uasset",
 				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Struct/Struct_WaveMetadata.uasset",
-				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Widgets/WBP_WaveCounter.uasset"
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Widgets/WBP_WaveCounter.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Sounds/S_BowShot_Cue.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Sounds/S_EnemyDespawn_Cue.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Sounds/S_EnemyHit_Cue.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Sounds/S_Pickup_Cue.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Sounds/S_PlayerDefeat_Cue.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Sounds/S_PlayerHit_Cue.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Sounds/S_SwordSwing_Cue.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Sounds/S_WaveTransition_Cue.uasset"
 			]
 		}
 	]
