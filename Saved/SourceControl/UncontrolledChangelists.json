@@ -302,7 +302,22 @@
 				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Components/BPC_Health.uasset",
 				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Inputs/Actions/IA_Sword.uasset",
 				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Characters/Boar/AnimSequences/VFX.uasset",
-				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Characters/Skeleton/AnimSequences/VFX.uasset"
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Characters/Skeleton/AnimSequences/VFX.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Widgets/WBP_HearPiece.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Widgets/WBP_HeartBox.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Widgets/WBP_MainHUD.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Inputs/Actions/IA_Bow.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/PaperAssets/Props/T_Arrow_Sprite.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/PaperAssets/Props/T_Bow_Sprite.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/PaperAssets/Props/T_HeartPickup_Sprite.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Projectiles/BP_Projectile_BASE.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Projectiles/BP_Projectile_Arrow.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Pickup/BP_Pickup_BASE.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Pickup/BP_Pickup_Heart.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Pickup/BP_Pickup_Arrow.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Systems/BP_SpawnManager.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Blueprints/Struct/Struct_WaveMetadata.uasset",
+				"/Users/sabinakim/Documents/Unreal Projects/DungeonAdventure/Content/Widgets/WBP_WaveCounter.uasset"
 			]
 		}
 	]
